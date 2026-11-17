@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashrafuasif.github.io/ai-for-care-ireland/sitemap.xml
